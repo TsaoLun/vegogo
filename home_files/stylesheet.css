@@ -307,7 +307,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (max-width: 992px) {
   .text-15 {
-    font-size: calc(1.5rem + 3.6290322581vw)  !important;
+    font-size: calc(1rem + 3.6290322581vw)  !important;
   }
 }
 
